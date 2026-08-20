@@ -1,0 +1,13 @@
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.pdf
+*.tex
+ensayo.bbl
+ensayo.pdf
+ensayo.tex
+ensayo.org~
