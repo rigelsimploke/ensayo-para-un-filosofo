@@ -2926,8 +2926,8 @@ El camino sigue abierto. Quien quiera recorrerlo, que lo recorra. Quien quiera i
 
 El proceso completo de escritura, los códigos fuente, las versiones intermedias y los archivos de este documento pueden consultarse en el repositorio público:
 
-  https://github.com/rigelsimploke/symploke-sonora
-
+  https://github.com/rigelsimploke/ensayo-para-un-filosofo
+  
 * Referencias
   :PROPERTIES:
   :CUSTOM_ID: referencias
